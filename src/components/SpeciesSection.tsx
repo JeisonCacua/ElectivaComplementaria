@@ -39,7 +39,7 @@ const SpeciesSection = () => {
                 <div className="grid md:grid-cols-2 gap-10 items-center fade-in-up opacity-0 translate-y-6 transition-all duration-700">
                     <div>
                         <h3 className="text-2xl font-semibold text-emerald-400 mb-3 flex items-center gap-2">
-                            🍑 El Durazno
+                            El Durazno
                         </h3>
                         <p className="text-gray-300 leading-relaxed">
                             Fruta emblemática cultivada principalmente en{" "}
@@ -65,7 +65,7 @@ const SpeciesSection = () => {
                     />
                     <div className="order-1 md:order-2">
                         <h3 className="text-2xl font-semibold text-emerald-400 mb-3 flex items-center gap-2">
-                            🐟 La Trucha
+                            La Trucha
                         </h3>
                         <p className="text-gray-300 leading-relaxed">
                             Criada en las aguas frías y puras de{" "}
@@ -80,7 +80,7 @@ const SpeciesSection = () => {
                 <div className="grid md:grid-cols-2 gap-10 items-center fade-in-up opacity-0 translate-y-6 transition-all duration-700">
                     <div>
                         <h3 className="text-2xl font-semibold text-emerald-400 mb-3 flex items-center gap-2">
-                            ☕ El Café
+                            El Café
                         </h3>
                         <p className="text-gray-300 leading-relaxed">
                             En las montañas de <strong>Toledo, Cácota</strong> y <strong>Labateca</strong> florecen los cafetales
