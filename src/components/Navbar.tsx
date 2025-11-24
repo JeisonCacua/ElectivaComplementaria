@@ -70,6 +70,16 @@ const Navbar = () => {
                     </li>
                     <li className="md:mb-0 mb-4 text-center md:text-left">
                         <a
+                            href="#video"
+                            onClick={(e) => handleSmoothScroll(e, "#video")}
+                            className="group relative inline-block font-semibold text-gray-200 hover:text-emerald-400 transition"
+                        >
+                            Video informativo
+                            <span className="absolute left-0 -bottom-1 h-0.5 w-0 bg-emerald-400 transition-all duration-200 group-hover:w-full" />
+                        </a>
+                    </li>
+                    <li className="md:mb-0 mb-4 text-center md:text-left">
+                        <a
                             href="#minerales"
                             onClick={(e) => handleSmoothScroll(e, "#minerales")}
                             className="group relative inline-block font-semibold text-gray-200 hover:text-emerald-400 transition"
